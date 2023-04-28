@@ -1,3 +1,8 @@
+# DATA ANALYST: USING PYTHON
+
+![image](https://user-images.githubusercontent.com/131565885/235117146-2f1e8d25-4842-4458-a511-ec3a8d05cbfb.png)
+
+
 # I. BACKGROUND
 You are a **Data Analyst** working for an **E-commerce company**.
 
