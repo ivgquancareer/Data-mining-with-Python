@@ -1,6 +1,6 @@
 # DATA ANALYST: USING PYTHON
 
-![image](https://user-images.githubusercontent.com/131565885/235117146-2f1e8d25-4842-4458-a511-ec3a8d05cbfb.png)
+![image](https://user-images.githubusercontent.com/131565885/235117252-cd827ec9-663f-45d5-a19f-ff51be133be1.png)
 
 
 # I. BACKGROUND
