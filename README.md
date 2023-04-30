@@ -1,4 +1,4 @@
-# DATA ANALYST: USING PYTHON
+# DATA ANALYSIS: USING PYTHON
 
 ![image](https://user-images.githubusercontent.com/131565885/235280190-04a53c15-5321-4ce4-8a1c-2a9968f2fe4e.png)
 
